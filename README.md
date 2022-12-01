@@ -1,4 +1,6 @@
-# Hi there 🐊
+# Hello there ✋
+
+🧿
 
 Bio.
 
