@@ -16,4 +16,36 @@ Bio.
 
 
 
+# Courses
+
+* py4e
+
+
+
+# Books
+
+* But How Do It Know - The Basic Principles of Computers for Everyone
+
+
+
+# Hobbies
+
+No hobbies.
+
+
+
+# Skills
+
+
+
+# Language
+
+* Turkish
+* English
+* Programming
+
+
+
+# Snake
+
 ![snake gif](https://raw.githubusercontent.com/baus5/baus5/output/github-contribution-grid-snake.svg)
