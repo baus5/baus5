@@ -6,7 +6,7 @@
 
 ![desk](https://user-images.githubusercontent.com/65490597/206925353-d940d503-4789-479c-bf27-14da78d3269c.jpeg)
 
-Bio.
+~ >_$% bio
 
 # Programming
 
