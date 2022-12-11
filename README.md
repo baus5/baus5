@@ -30,8 +30,9 @@
 
 # Books
 
-* But How Do It Know - The Basic Principles of Computers for Everyone
-
+* But How Do It Know - J. Clark Scott
+* The C Programming Language 2nd edition - Dennis Ritchie
+* Automate The Boring Stuff With Python - Al Sweigart
 
 
 # Hobbies
