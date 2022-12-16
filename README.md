@@ -26,12 +26,6 @@ Ad astra per aspera✨
 
 # Courses
 
-1. 
-2. 
-3. 
-4. 
-5. 
-
 
 
 # Books
@@ -43,19 +37,9 @@ Ad astra per aspera✨
 
 # Hobbies
 
-* Arduino
-
 
 
 # Skills
-
-
-
-# Language
-
-* Turkish
-* English
-* Programming
 
 
 
