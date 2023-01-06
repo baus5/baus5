@@ -8,7 +8,7 @@
 <!-- ![numpy](https://user-images.githubusercontent.com/65490597/209459638-db1c07c0-19bf-43b5-8829-f11e140a08e6.png) -->
 <!-- ![pandas](https://user-images.githubusercontent.com/65490597/209459654-f05bfa80-ab50-4ca2-acf3-ed6a07158ba7.png) -->
 
-Ad astra per aspera✨
+Ad astra per aspera✨✨
 
 ~ >_$% bio
 
