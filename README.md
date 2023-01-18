@@ -27,7 +27,7 @@ Ad astra per aspera✨✨
 
 # Music
 
-* [Selected](https://www.youtube.com/watch?v=bIS411uBavI)
+* [Selected.](https://www.youtube.com/watch?v=bIS411uBavI)
 * [Stay See](https://www.youtube.com/watch?v=O8bZF_UhPag)
 * [codeRadio](https://coderadio.freecodecamp.org/)
 
