@@ -3,7 +3,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/65490597/219462209-59abaf1d-f7be-4922-811f-8f0f1f82f898.jpg">
   <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/65490597/219461916-f2dbd596-ab8e-402f-8197-ea243cffe0be.jpg">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/65490597/219462312-a6de12d3-ccdf-4e33-b3d6-8b239e798fa6.jpg">
+  <img alt="Shows a minimalist black coffee on white table in light mode and a neon beer sign on black background in dark mode. Or users browser does not support the prefers-color-scheme feature, free wordPress theme source code displayed on this photo" src="https://user-images.githubusercontent.com/65490597/219462312-a6de12d3-ccdf-4e33-b3d6-8b239e798fa6.jpg">
 </picture>
 <blockquote>Photo from <a href="https://unsplash.com/">Unsplash</a></blockquote>
 
