@@ -7,18 +7,6 @@
 </picture>
 <blockquote>Photo from <a href="https://unsplash.com/">Unsplash</a></blockquote>
 
-
-
-<!-- ![desktop](https://user-images.githubusercontent.com/65490597/206925353-d940d503-4789-479c-bf27-14da78d3269c.jpeg) -->
-<!-- ![numpy](https://user-images.githubusercontent.com/65490597/209459638-db1c07c0-19bf-43b5-8829-f11e140a08e6.png) -->
-<!-- ![pandas](https://user-images.githubusercontent.com/65490597/209459654-f05bfa80-ab50-4ca2-acf3-ed6a07158ba7.png) -->
-
-Ad astra per aspera✨✨
-
-~ >_$% bio
-
-
-
 # Programming
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -29,19 +17,13 @@ Ad astra per aspera✨✨
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-
-
 # Music
 
 * [Selected.](https://www.youtube.com/watch?v=bIS411uBavI)
 * [Stay See](https://www.youtube.com/watch?v=O8bZF_UhPag)
 * [codeRadio](https://coderadio.freecodecamp.org/)
 
-
-
 # Courses
-
-
 
 # Books
 
@@ -49,14 +31,9 @@ Ad astra per aspera✨✨
 * The C Programming Language 2nd edition - Dennis Ritchie
 * Automate The Boring Stuff With Python - Al Sweigart
 
-
 # Hobbies
 
-
-
 # Skills
-
-
 
 # Snake
 
