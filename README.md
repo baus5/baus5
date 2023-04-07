@@ -1,35 +1,39 @@
-### Hello there 👋
+# Hello, World! 👋
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/65490597/219462209-59abaf1d-f7be-4922-811f-8f0f1f82f898.jpg">
+  <!-- <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/65490597/219462209-59abaf1d-f7be-4922-811f-8f0f1f82f898.jpg"> -->
   <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/65490597/219461916-f2dbd596-ab8e-402f-8197-ea243cffe0be.jpg">
-  <img alt="Shows a minimalist black coffee on white table in light mode and a neon beer sign on black background in dark mode. Or users browser does not support the prefers-color-scheme feature, free wordPress theme source code displayed on this photo" src="https://user-images.githubusercontent.com/65490597/219462312-a6de12d3-ccdf-4e33-b3d6-8b239e798fa6.jpg">
+  <img alt="black coffee on white table, no dark mode. Or users browser does not support the prefers-color-scheme feature, free wordPress theme source code displayed on this photo" src="https://user-images.githubusercontent.com/65490597/219462312-a6de12d3-ccdf-4e33-b3d6-8b239e798fa6.jpg">
 </picture>
 <blockquote>Photo from <a href="https://unsplash.com/">Unsplash</a></blockquote>
 
-# Programming
+## Programming
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-# Music
+## Music
 
 * [Selected.](https://www.youtube.com/watch?v=bIS411uBavI)
 * [Stay See](https://www.youtube.com/watch?v=O8bZF_UhPag)
 * [codeRadio](https://coderadio.freecodecamp.org/)
 
-# Courses
+## Courses
 
-# Books
+## Books
+
+### code/programming
 
 * But How Do It Know - J. Clark Scott
 * The C Programming Language 2nd edition - Dennis Ritchie
 * Automate The Boring Stuff With Python - Al Sweigart
+
+### self-improvement
+
+* Strategies for Success by James M. Dornan
 
 # Hobbies
 
