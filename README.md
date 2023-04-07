@@ -15,13 +15,11 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-## Music
+## Music 🎧
 
-* [Selected.](https://www.youtube.com/watch?v=bIS411uBavI)
-* [Stay See](https://www.youtube.com/watch?v=O8bZF_UhPag)
-* [codeRadio](https://coderadio.freecodecamp.org/)
+* track 1
 
-## Courses
+## Certificates
 
 ## Books
 
@@ -33,13 +31,13 @@
 
 ### self-improvement
 
-* Strategies for Success by James M. Dornan
+* Strategies for Success by Jim Dornan
 
-# Hobbies
+## Hobbies
 
-# Skills
-
-# Snake
+* Swimming
+* Hiking
+* Travelling
 
 ![snake gif](https://raw.githubusercontent.com/baus5/baus5/output/github-contribution-grid-snake.svg)
 
