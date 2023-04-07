@@ -23,7 +23,7 @@
 
 ## Books
 
-### code/programming
+### computer science
 
 * But How Do It Know - J. Clark Scott
 * The C Programming Language 2nd edition - Dennis Ritchie
