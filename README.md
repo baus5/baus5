@@ -35,7 +35,7 @@
 
 ## Hobbies
 
-* Swimming
+* basketball
 * Hiking
 * Travelling
 * chess
@@ -43,6 +43,8 @@
 * gardening
 * architecture
 * algebra
+* hobby electronics
+* writing
 
 ![snake gif](https://raw.githubusercontent.com/baus5/baus5/output/github-contribution-grid-snake.svg)
 
