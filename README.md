@@ -38,7 +38,7 @@
 * Swimming
 * Hiking
 * Travelling
-* playing chess
+* chess
 * masonry
 * gardening
 * architecture
