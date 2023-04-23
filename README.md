@@ -45,6 +45,7 @@
 * algebra
 * hobby electronics
 * writing
+* playing piano
 
 ![snake gif](https://raw.githubusercontent.com/baus5/baus5/output/github-contribution-grid-snake.svg)
 
