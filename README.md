@@ -19,7 +19,9 @@
 
 * track 1
 
-## Certificates
+## Audios
+
+* Qur'an
 
 ## Books
 
@@ -32,6 +34,8 @@
 ### self-improvement
 
 * Strategies for Success by Jim Dornan
+
+## CertS
 
 ## Hobbies
 
