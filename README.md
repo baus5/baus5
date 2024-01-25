@@ -39,18 +39,12 @@
 
 ## Hobbies
 
-* basketball
-* Hiking
+* Reading
 * Travelling
-* chess
-* masonry
-* gardening
-* architecture
-* algebra
-* hobby electronics
-* writing
-* playing piano
-* dancing
+* Photography
+* Music
+* Running
+* and ofc Coding...
 
 ![snake gif](https://raw.githubusercontent.com/baus5/baus5/output/github-contribution-grid-snake.svg)
 
