@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ... idk i solve problems with my own
 - 💬 Ask me about ... No
 - 📫 How to reach me: ... you cant maybe
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... Joke joke joke
+- 😄 Pronouns: ... 
+- ⚡ Fun fact: ... github is simply instagram for developers.
