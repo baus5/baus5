@@ -1,6 +1,6 @@
 ## Hello Ciao Merhaba مرحبا👋
 
-Coding...
+Back-end Web developer | Front-end Web developer | Python developer
 <!-- Default from GitHub
 
   **baus5/baus5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
