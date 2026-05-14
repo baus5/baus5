@@ -17,7 +17,7 @@ Back-end Web developer | Front-end Web developer | Python developer
   - ⚡ Fun fact: ... Joke joke hoke
 -->
 
-- 🔭 I’m currently working on ... my personal/portfolio website and some other stuffs
+- 🔭 I’m currently working on ... my personal/portfolio website, my webdev & python roadmaps, study plans etc and some other stuffs
 - 🌱 I’m currently learning ... mathematics, web development, python programmnig, concepts of computer science...
 - 👯 I’m looking to collaborate on ... something interesting, inspiring, spectacular!
 - 🤔 I’m looking for help with ... idk i solve problems with my own, otherwise ask it into the internet.
