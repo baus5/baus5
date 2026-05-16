@@ -1,7 +1,7 @@
 ## Hello Ciao Merhaba مرحبا👋
 
 ```python
-role= "developer",
+role= "Developer",
 title= ["Web developer", "Programmer"]
 tech_stack = [
     [
