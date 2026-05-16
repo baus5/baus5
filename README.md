@@ -1,7 +1,48 @@
 ## Hello Ciao Merhaba مرحبا👋
 
-Back-end Web developer | Front-end Web developer | Python developer
-<!-- Default from GitHub
+```python
+role= "developer",
+title= ["Web developer", "Programmer"]
+tech_stack = [
+    [
+        "React", 
+        "Python", 
+        "MongoDB", 
+        "Tailwind CSS", 
+        "JavaScript", 
+        "Node.js", 
+        "Express.js", 
+        "HTML5", 
+        "CSS3", 
+        "Git", 
+        "GitHub", 
+        "REST APIs"
+    ]
+]
+```
+
+<!-- 
+
+tech_stack = [
+    [
+        "React", 
+        "Python", 
+        "MongoDB", 
+        "Tailwind CSS", 
+        "JavaScript", 
+        "Node.js", 
+        "Express.js", 
+        "HTML5", 
+        "CSS3", 
+        "Git", 
+        "GitHub", 
+        "REST APIs"
+    ]
+]
+
+
+
+Default from GitHub
 
   **baus5/baus5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
   
