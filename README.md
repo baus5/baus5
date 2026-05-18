@@ -2,6 +2,8 @@
 
 🔭 I’m currently working on my Github repo for cross platform development
 
+i just realize how awesome git/github thanks a lot Linus Torvalds invented Git in April 2005.
+
 ```python
 role= "Developer",
 title= ["Web developer", "Programmer"]
