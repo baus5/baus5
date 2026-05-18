@@ -1,5 +1,7 @@
 ## Hello Ciao Merhaba مرحبا👋
 
+🔭 I’m currently working on my Github repo for cross platform development
+
 ```python
 role= "Developer",
 title= ["Web developer", "Programmer"]
