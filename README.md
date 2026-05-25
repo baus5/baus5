@@ -76,3 +76,6 @@ Default from GitHub
 - 📫 How to reach me: ... in linktree/ .
 - 😄 Pronouns: ... 
 - ⚡ Fun fact: ... clouds are heavy enough to weigh millions of kilograms.
+
+
+...and yes im using AI tools to improve code clarity, documentation, and project structure. still review and understand everything, but it helps me so much for stay focused on building and learning faster.
