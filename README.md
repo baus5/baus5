@@ -1,6 +1,8 @@
 ## Hello Ciao Merhaba مرحبا👋
 
-🔭 I’m currently working on my Github repo for cross platform development
+🔭 I’m currently working on a cross-platform development workflow through my GitHub repos, building a better learning system for me, organizing my notes, bookmarks, youtube playlists, project ideas, and searching for job opportunities. :)
+
+After that i will finally focus web development, Python, AI/ML and development workflows.
 
 i just realize how awesome git/github thanks a lot Linus Torvalds invented Git in April 2005.
 
