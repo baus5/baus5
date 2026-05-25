@@ -5,6 +5,7 @@
 After that i will finally focus web development, Python, AI/ML and development workflows.
 
 ...than gonna focus mathematics,
+
 ...than gonna learn new human languages.
 
 i just realize how awesome git/github thanks a lot Linus Torvalds invented Git in April 2005.
