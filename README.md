@@ -79,3 +79,5 @@ Default from GitHub
 
 
 ...and yes im using AI tools to improve code clarity, documentation, and project structure. still review and understand everything, but it helps me so much for stay focused on building and learning faster.
+
+ai is just really good generalization tool. rest is a marketing.
