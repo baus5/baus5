@@ -1,5 +1,7 @@
 ## Hello Ciao Merhaba مرحبا👋
 
+Mathematician, Computer scientist, C/C++ developer, Game engine developer, Pluralistic, Eclectic, , curious, interdisciplinary, Architect, Graphic designer, interest with economics, history, sci,-fi and many other things.
+
 🔭 I’m currently working on a cross-platform development workflow through my GitHub repos, building a better learning system for me, organizing my notes, bookmarks, youtube playlists, project ideas, and searching for job opportunities. :)
 
 After that i will finally focus web development, Python, AI/ML and development workflows.
